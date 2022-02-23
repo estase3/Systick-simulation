@@ -1,2 +1,2 @@
 # Systick-simulation
-Simulation of systick timerin m0-cortex processor
+Simulation of systick timer in m0-cortex processor
